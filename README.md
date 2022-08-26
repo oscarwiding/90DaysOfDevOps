@@ -23,14 +23,14 @@ The quickest way to get in touch is going to be via Twitter, my handle is [@Mich
 ### What is and why do we use DevOps
 
 - [✔️] ♾️ 2 > [Responsibilities of a DevOps Engineer](Days/day02.md)
-- [] ♾️ 3 > [DevOps Lifecycle - Application Focused](Days/day03.md)
-- [] ♾️ 4 > [DevOps & Agile](Days/day04.md)
-- [] ♾️ 5 > [Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >](Days/day05.md)
-- [] ♾️ 6 > [DevOps - The real stories](Days/day06.md)
+- [✔️] ♾️ 3 > [DevOps Lifecycle - Application Focused](Days/day03.md)
+- [✔️] ♾️ 4 > [DevOps & Agile](Days/day04.md)
+- [✔️] ♾️ 5 > [Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >](Days/day05.md)
+- [✔️] ♾️ 6 > [DevOps - The real stories](Days/day06.md)
 
 ### Learning a Programming Language
 
-- [] ⌨️ 7 > [The Big Picture: DevOps & Learning a Programming Language](Days/day07.md)
+- [✔️] ⌨️ 7 > [The Big Picture: DevOps & Learning a Programming Language](Days/day07.md)
 - [] ⌨️ 8 > [Setting up your DevOps environment for Go & Hello World](Days/day08.md)
 - [] ⌨️ 9 > [Let's explain the Hello World code](Days/day09.md)
 - [] ⌨️ 10 > [The Go Workspace & Compiling & running code](Days/day10.md)
